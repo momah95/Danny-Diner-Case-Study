@@ -1,2 +1,2 @@
 # Danny-Diner-Case-Study
-An SQL project
+A case study project using SQL to answer questions and derive insights.
